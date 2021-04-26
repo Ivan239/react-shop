@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React Shop project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for react skills demonstration using open Fortnite API. Results published on https://ivan239.github.io/react-shop/
+
+## Capabilities
+
+You can search and add actual items from Fortnite shop, which presented on open Fortnite API. Shop busket with some functions was realized.
 
 ## Available Scripts
 
